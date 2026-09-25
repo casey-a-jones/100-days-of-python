@@ -8,4 +8,4 @@
 print("Hello and welcome to the Band Name Generator!\n")
 color = input("What is your favorite color?\n")
 creature = input("What is your favorite mythical creature?\n")
-print("Your band name is, The " + color + " " + creature + "'s!)
+print("Your band name is, The " + color + " " + creature + "'s!")
